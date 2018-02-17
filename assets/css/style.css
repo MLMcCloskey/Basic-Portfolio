@@ -91,7 +91,7 @@ a:hover {
 }
 
 .profilePicture{
-    /* transform: rotate(90deg); */
+    transform: rotate(90deg);
     height: 192px;
     width: 144px;
     float: left;
