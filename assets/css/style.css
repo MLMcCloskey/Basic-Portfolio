@@ -91,13 +91,13 @@ a:hover {
 }
 
 .profilePicture{
-    transform: rotate(90deg);
-    height: 144px;
-    width: 192px;
+    /* transform: rotate(90deg); */
+    height: 192px;
+    width: 144px;
     float: left;
     align-content: left;
     padding: 0px;
-    margin: 25px 5px;
+    margin: 15px 25px 15px 15px;
 }
 
 
